@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 200" fill="none">
+  <defs>
+    <linearGradient id="wave" x1="0" y1="0" x2="854" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1" />
+      <stop offset="0.5" stop-color="#22D3EE" />
+      <stop offset="1" stop-color="#0EA5E9" />
+    </linearGradient>
+    <linearGradient id="spark" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#E0F2FE" />
+      <stop offset="0.55" stop-color="#818CF8" />
+      <stop offset="1" stop-color="#22D3EE" />
+    </linearGradient>
+  </defs>
+
+  <rect width="854" height="200" rx="16" fill="#0D1117" />
+
+  <path d="M0 170 C120 140 210 188 330 170 S 530 140 650 160 S 800 180 854 154 L854 200 L0 200 Z" fill="url(#wave)" opacity="0.22" />
+  <path d="M0 184 C140 158 240 198 380 180 S 610 154 750 170 S 830 186 854 172" stroke="url(#wave)" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.85" />
+  <path d="M0 192 C160 172 280 200 430 188 S 660 172 854 186" stroke="url(#wave)" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.45" />
+
+  <text x="48" y="94" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="46" font-weight="700" fill="#F8FAFC">技术派罗恩</text>
+  <text x="50" y="136" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#A5F3FC">94' 全栈工程师 · 10+ 年互联网 · Agent / FDE / GEO · Node &amp; Python</text>
+
+  <path d="M742 48 Q747 70 768 75 Q747 80 742 102 Q737 80 716 75 Q737 70 742 48 Z" fill="url(#spark)" />
+  <circle cx="786" cy="40" r="4" fill="#22D3EE" opacity="0.8" />
+  <circle cx="706" cy="30" r="2.5" fill="#818CF8" opacity="0.7" />
+  <circle cx="802" cy="60" r="2" fill="#E0F2FE" opacity="0.6" />
+</svg>
