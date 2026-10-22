@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:22d3ee,100:0ea5e9&height=210&section=header&text=%E6%8A%80%E6%9C%AF%E6%B4%BE%E7%BD%97%E6%81%A9&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=94%27%20%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%20%C2%B7%2010%2B%20%E5%B9%B4%E4%BA%92%E8%81%94%E7%BD%91%20%C2%B7%20Agent%20%2F%20FDE%20%2F%20GEO%20%C2%B7%20Node%20%26%20Python&descAlignY=58&descSize=15&descColor=a5f3fc" alt="技术派罗恩" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:22d3ee,100:0ea5e9&height=210&section=header&text=%E6%8A%80%E6%9C%AF%E6%B4%BE%E7%BD%97%E6%81%A9&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=94%27%20%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%20%C2%B7%2010%2B%20%E5%B9%B4%E4%BA%92%E8%81%94%E7%BD%91%20%C2%B7%20Agent%20%2F%20FDE%20%2F%20GEO%20%C2%B7%20Node%20%26%20Python&descAlignY=58&descSize=15&descColor=a5f3fc&version=2" alt="技术派罗恩" />
 
 📍 苏州 · 🎓 专升本 → 苏州大学（计算机科班）· 💬 聊 AI 实战、全栈工程、工程师搞钱 · 🌐 [luoruihuan.top](https://luoruihuan.top)
 
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=luoruihuan&style=flat-square&color=6366f1" alt="visitors" />
+<img src="https://komarev.com/ghpvc/?username=luoruihuan&style=flat-square&color=6366f1&v=2" alt="visitors" />
 
 </div>
 
