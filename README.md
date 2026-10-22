@@ -1,23 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:22d3ee,100:0ea5e9&height=200&section=header&text=%E6%8A%80%E6%9C%AF%E6%B4%BE%E7%BD%97%E6%81%A9&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=94'%20Full-Stack%20Engineer%20%C2%B7%2010%2B%20yrs%20%C2%B7%20Agent%20Developer&descAlignY=56&descSize=16&descColor=a5f3fc" alt="技术派罗恩" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:22d3ee,100:0ea5e9&height=210&section=header&text=%E6%8A%80%E6%9C%AF%E6%B4%BE%E7%BD%97%E6%81%A9&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=94%27%20%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%20%C2%B7%2010%2B%20%E5%B9%B4%E4%BA%92%E8%81%94%E7%BD%91%20%C2%B7%20Agent%20%2F%20FDE%20%2F%20GEO%20%C2%B7%20Node%20%26%20Python&descAlignY=58&descSize=15&descColor=a5f3fc" alt="技术派罗恩" />
+
+📍 苏州 · 🎓 专升本 → 苏州大学（计算机科班）· 💬 聊 AI 实战、全栈工程、工程师搞钱 · 🌐 [luoruihuan.top](https://luoruihuan.top)
 
 </div>
-
-```ts
-const ron = {
-	name: '技术派罗恩',
-	birth: 1994,
-	role: '全栈工程师',
-	experience: '10+ 年互联网',
-	education: ['专科 → 专升本 → 苏州大学 · 计算机科班'],
-	focus: ['AI Agent 开发', 'FDE', 'GEO'],
-	languages: ['TypeScript', 'Node.js', 'Python'],
-	talks: ['AI 实战', '全栈工程', '工程师搞钱'],
-	location: '苏州 🇨🇳',
-	blog: 'https://luoruihuan.top',
-} as const;
-```
 
 ---
 
@@ -45,11 +32,10 @@ const ron = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=luoruihuan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" />
+<img height="160" src="https://github-readme-stats-steel-iota-27.vercel.app/api?username=luoruihuan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" />
 <img height="160" src="https://streak-stats.demolab.com?user=luoruihuan&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoruihuan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="langs" />
-<img height="160" src="https://github-profile-trophy.vercel.app/?username=luoruihuan&theme=discord&no-frame=true&column=4&margin-w=6" alt="trophy" />
+<img height="160" src="https://github-readme-stats-steel-iota-27.vercel.app/api/top-langs/?username=luoruihuan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="langs" />
 
 </div>
 
